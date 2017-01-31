@@ -25,7 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image]({{site.baseurl}}/img/coalition-logos/image.jpg)
+![Image]({{site.baseurl}}/nj-bill-a3899/img/coalition-logos/image.jpg)
+![Image]{{site.baseurl}}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
