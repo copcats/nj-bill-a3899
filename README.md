@@ -27,6 +27,7 @@ Syntax highlighted code block
 
 ![Image]({{site.baseurl}}/img/coalition-logos/image.jpg)
 ![Image]{{site.baseurl}}
+<img src="img/coalition-logos/image.jpg">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
