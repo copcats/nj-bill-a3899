@@ -1,8 +1,9 @@
 
 # Support for NJ A3899 / S2410 
-### Bill to prohibit surgical declawing of cats
 
-### Official Letter of Support from NJ animal shelters, animal welfare and care organizations
+## Bill to prohibit surgical declawing of cats
+
+### Official Letter of Support from New Jersey animal organizations
 
 Jan 30, 2017
 
