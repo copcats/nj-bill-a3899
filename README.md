@@ -1,44 +1,45 @@
-## Welcome to GitHub Pages
+# Support for NJ A3899 / S2410 
+## Bill to prohibit surgical declawing of cats
 
-You can use the [editor on GitHub](https://github.com/copcats/nj-bill-a3899/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Official Letter of Support from NJ animal shelters, animal welfare and care organizations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jan 30, 2017
 
-### Markdown
+Dear New Jersey Legislators,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are rescue-and-adoption organizations and shelters in New Jersey.  We urge you to support A3899/S2410. If enacted into law, these important bills would prohibit the declawing of cats, a cruel and painful procedure where “each toe of the cat is amputated at the first joint…equivalent in a person to amputating the entire first knuckle of every finger.”
+ 
+We are dedicated to the protection and humane treatment of cats. We promote sound and compassionate policies for cats, and we regularly advise individuals, nonprofit groups, local governments, and state policymakers on humane approaches to cats.
+ 
+Declawing, also known as onychectomy, is rarely done for medical purposes. Studies report that an estimated 25% of cats in the United States are declawed and in almost every case, it is done merely to protect the owner’s home furnishings.
+ 
+Cats naturally rely on their claws, using them for balance, climbing, playing, stretching to relieve stress, and protection. Regardless of surgical technique used or pain management at the time of the procedure, declawing causes disability, physical pain and chronic problems for cats long after the procedure has been completed. These problems include chronic pain in the paw, infection, arthritis, as well as joint and back pain, as the cat's biomechanics are often significantly changed as a result of the multiple changes to their anatomy.  Declawed cats, without their natural defenses, often become aggressive and are more likely to bite, which poses a greater risk to human health than scratching does. Declawed cats more often show anxieties that manifest in urinating or defecating in inappropriate places, which can often result in relinquishment of the pet to a shelter where the final result is euthanasia. 
+ 
+Declawing simply to protect furniture or carpet is not a reason to resort to such a drastic and harmful surgery.  We educate people to use the many humane alternatives to declawing, including: rubbing or spraying scratching posts with catnip, trimming their claws, nail caps, spraying the area with a scent that cats do not like, or other readily-available deterrents.  Today, we have newer generations of affordable and accessible cat scratching furniture which have been improved to increase usage.  Cat behaviorists, who provide education about how to manage and redirect unwanted scratching behavior and their teachings, can reach much larger audiences with today's technology.
+ 
+Human health authorities, including the CDC, NIH, the United States Public Health Service, and Canadian Medical Association agree that declawing cats does not protect human health. Declawed cats bite more often and harder and therefore can become more dangerous to immunocompromised humans. 
+ 
+We are in existence for the sole reason of rehoming homeless cats, which includes providing care to make them adoptable. In our many years of experience carrying out our missions, we have found that cats with biting tendencies and litter box avoidance -- problems which are disproportionately found with declawed cats -- are difficult to rehome.  Based on the evidence and our extensive experience, we have concluded that declawing does not ensure homes for cats.  On the contrary, we have witnessed the exact opposite, which is why we know that declawing is more likely to lead to relinquishment of cats to shelters and to death.
+ 
+Eight cities in California and a number of countries, such as Switzerland, Germany and the United Kingdom have already banned declawing. New Jersey would be at the forefront of this movement on the state level, ensuring that cats will no longer be put through this inhumane and painful procedure.
 
-```markdown
-Syntax highlighted code block
+Sincerely yours,
 
-# Header 1
-## Header 2
-### Header 3
+**The Coalition of New Jersey Animal Welfare Organizations in Support of NJ A3899**
 
-- Bulleted
-- List
+1. Name, title, organization, town, NJ
+2. Name, title, organization, town, NJ
+3. Name, title, organization, town, NJ
 
-1. Numbered
-2. List
+**The Coalition of National Animal Welfare Organizations in Support of NJ A3899**
 
-**Bold** and _Italic_ and `Code` text
+1. Paw Project, Los Angeles, CA
+2. Alley Cat Allies, town, state
+3. Name, town, state
+4. Name, town, state
 
-[Link](url) and ![Image](src)
 
-![Image]({{site.baseurl}}/img/coalition-logos/image.jpg)
-![Image]{{site.baseurl}}
-<img src="img/coalition-logos/image.jpg">
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/copcats/nj-bill-a3899/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![Image]({{site.baseurl}}/img/coalition-logos/image.jpg)
 ![Image]{{site.baseurl}}
