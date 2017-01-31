@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image]({{site.baseurl}}/nj-bill-a3899/img/coalition-logos/image.jpg)
+![Image]({{site.baseurl}}/img/coalition-logos/image.jpg)
 ![Image]{{site.baseurl}}
 ```
 
