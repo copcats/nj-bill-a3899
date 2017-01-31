@@ -27,13 +27,13 @@ Eight cities in California and a number of countries, such as Switzerland, Germa
 
 Sincerely yours,
 
-**The Coalition of New Jersey Animal Welfare Organizations in Support of NJ A3899**
+### The Coalition of New Jersey Animal Welfare Organizations in Support of NJ A3899
 
 1. Name, title, organization, town, NJ
 2. Name, title, organization, town, NJ
 3. Name, title, organization, town, NJ
 
-**The Coalition of National Animal Welfare Organizations in Support of NJ A3899**
+### The Coalition of National Animal Welfare Organizations in Support of NJ A3899 
 
 1. Paw Project, Los Angeles, CA
 2. Alley Cat Allies, town, state
